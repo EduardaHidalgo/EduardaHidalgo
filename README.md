@@ -30,7 +30,7 @@
   
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![Eduarda Hidalgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardaHidalgo&theme=dracula&bg_color=4f4045&show_icons=true&hide_title=true&hide=stars) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![Eduarda Hidalgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardaHidalgo&theme=dracula&bg_color=4f4045&show_icons=true&hide_title=true&hide=stars) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaHidalgo&layout=compact)     
 
         
