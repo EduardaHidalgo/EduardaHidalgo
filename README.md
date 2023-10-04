@@ -1,30 +1,24 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffcbdb&repeat=false&width=435&lines=Hello%2C+world+♥" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffcbdb&size=35&center=true&width=1000&lines=Hello%2C+world+♥" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-  <img src="https://github.com/EduardaHidalgo/EduardaHidalgo/blob/main/gifreadme.gif" alt="Descrição do GIF">
-<p
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-</p>
- 
- 
+  <img src="https://github.com/EduardaHidalgo/EduardaHidalgo/blob/main/gifreadme.gif" alt="tecnology">
+  
 <h1 align="center">
   Olá, eu sou a Eduarda Hidalgo!
 </h1>
 
 <p align="center"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+ Sou de Brasília - DF, formada em Comunicação Social - Publicidade e Propaganda e agora me aventurando no mundo da tecnologia 👩🏻‍💻
 </p>
 
 <p align="center">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+ 💚 Front-end
 </p>
 
 <p align="center">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+ 📝 Atualmente estudando JAVA 
 </p>
-
 <p align="center">
   💌Entre em contato comigo: ⤵️
 </p>
@@ -36,4 +30,8 @@
   
 </div>
 
+ ## GitHub Stats
+                       
+   ![Eduarda Hidalgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardaHidalgo&theme=dracula&bg_color=4f4045&show_icons=true&hide_title=true&hide=stars)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaHidalgo&layout=compact)                  
 </p>
