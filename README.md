@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
- 📝 Atualmente estudando JAVA 
+ 📝 Estudante de Análise e Desenvolvimento de Sistemas 
 </p>
 <p align="center">
   💌Entre em contato comigo: ⤵️
