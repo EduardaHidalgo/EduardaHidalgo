@@ -13,7 +13,6 @@
 </p>
 
 <p align="center">
- 💚 Front-end
 </p>
 
 <p align="center">
