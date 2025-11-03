@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffcbdb&size=35&center=true&width=1000&lines=Hello%2C+world+♥" alt="Typing" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffcbdb&size=35&center=true&width=1000&lines=Hello%2C+world+♥" /></a>
 </p>
 <p align="center">
   <img src="https://github.com/EduardaHidalgo/EduardaHidalgo/blob/main/gifreadme.gif" alt="tecnology">
