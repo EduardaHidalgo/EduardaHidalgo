@@ -37,6 +37,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardaHidalgo&theme=dracula&bg_color=4f4045&show_icons=true&hide_title=true&hide=stars" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaHidalgo&layout=compact&theme=dracula&bg_color=4f4045" height="150" alt="Top Langs" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=EduardaHidalgo](https://github-readme-stats.vercel.app/api?username=EduardaHidalgo)&theme=dracula&bg_color=4f4045&show_icons=true&hide_title=true&hide=stars" height="150" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaHidalgo](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaHidalgo)&layout=compact&theme=dracula&bg_color=4f4045" height="150" alt="Top Langs" />
 </div>
