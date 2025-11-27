@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <font color="#eb9dcaff000ff">Hello, World! 🎔  </font>
+  <font color="#DDA0DD"> Hello, World! ♡  </font>
 </h1>
 
 <p align="center">
