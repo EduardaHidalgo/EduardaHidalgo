@@ -1,5 +1,7 @@
 
-<h1 align="center">Hello, World! 🌎</h1>
+<h1 align="center">
+  <font color="#eb9dca">Hello, World! 💕 </font>
+</h1>
 
 <p align="center">
   <img src="https://github.com/EduardaHidalgo/EduardaHidalgo/blob/main/gifreadme.gif" alt="tecnology">
