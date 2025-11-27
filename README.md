@@ -37,6 +37,5 @@
 <br>
 
 <div align="center">
-  <img src="(https://github-readme-stats.vercel.app/api?username=EduardaHidalgo)](https://github.com/EduardaHidalgo/github-readme-stats) />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaHidalgo&layout=compact&theme=dracula&bg_color=4f4045&locale=pt-br" height="150" alt="Linguagens Mais Usadas" />
+  <img src="(https://github-readme-stats.vercel.app/api?username=EduardaHidalgo)](https://github.com/anuraghazra/github-readme-stats)" />
 </div>
