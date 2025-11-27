@@ -1,7 +1,7 @@
 
-<h1 align="center">
-  <font color="#DDA0DD"> Hello, World! ♡  </font>
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=DDA0DD&text=Hello,%20World!%20%E2%99%A1&height=100&fontSize=50" alt="Hello World">
+</div>
 
 <p align="center">
   <img src="https://github.com/EduardaHidalgo/EduardaHidalgo/blob/main/gifreadme.gif" alt="tecnology">
