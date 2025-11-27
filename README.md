@@ -1,10 +1,10 @@
 
 <div align="center">
-  <img src="https://i.imgur.com/8p85A1y.gif" width="40px">
+  <img src="https://i.imgur.com/Ld56Z6Z.gif" width="50px" style="padding-bottom: 20px">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=D8BFD8&height=200&section=header&text=Hello,%20World!%20%E2%99%A1&fontSize=50&fontColor=ffffff&fontAlign=50" alt="Hello World" width="80%">
   
-  <img src="https://i.imgur.com/8p85A1y.gif" width="40px">
+  <img src="https://i.imgur.com/Ld56Z6Z.gif" width="50px" style="transform: scaleX(-1); padding-bottom: 20px">
 </div>
 
 <p align="center">
@@ -38,4 +38,3 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![Eduarda Hidalgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardaHidalgo&theme=dracula&bg_color=4f4045&show_icons=true&hide_title=true&hide=stars) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaHidalgo&layout=compact)
-        
