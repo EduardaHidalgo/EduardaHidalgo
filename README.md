@@ -38,5 +38,5 @@
 
 <div align="center">
   <img src="(https://github-readme-stats.vercel.app/api?EduardaHidalgo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaHidalgo&layout=compact&theme=dracula&bg_color=4f4045" height="150" alt="Top Langs" />
+  <img src="(https://github-readme-stats.vercel.app/apiEduardaHidalgo=anuraghazra&commits=contribs,prs)s" />
 </div>
