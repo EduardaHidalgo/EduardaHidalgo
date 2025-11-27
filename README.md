@@ -1,10 +1,6 @@
 
 <div align="center">
-  <img src="https://i.imgur.com/Ld56Z6Z.gif" width="50px" style="padding-bottom: 20px">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=D8BFD8&height=200&section=header&text=Hello,%20World!%20%E2%99%A1&fontSize=50&fontColor=ffffff&fontAlign=50" alt="Hello World" width="80%">
-  
-  <img src="https://i.imgur.com/Ld56Z6Z.gif" width="50px" style="transform: scaleX(-1); padding-bottom: 20px">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=DDA0DD&text=Hello,%20World!%20%E2%99%A1&height=100&fontSize=50" alt="Hello World">
 </div>
 
 <p align="center">
