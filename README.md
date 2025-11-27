@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=CD9B9B&text=Hello,%20World!%20%E2%99%A1&height=100&fontSize=50" alt="Hello World">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=EEA2AD&text=Hello,%20World!%20%E2%99%A1&height=100&fontSize=50" alt="Hello World">
 </div>
 
 <p align="center">
