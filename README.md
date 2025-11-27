@@ -37,6 +37,5 @@
 <br>
 
 <div align="center">
-  <img src="(https://github-readme-stats.vercel.app/api?EduardaHidalgo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" />
   <img src="(https://github-readme-stats.vercel.app/api?EduardaHidalgo=anuraghazra&commits_year=2025)" />
 </div>
