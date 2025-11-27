@@ -1,7 +1,10 @@
 
+<h1 align="center">Hello, World! 🌎</h1>
+
 <p align="center">
   <img src="https://github.com/EduardaHidalgo/EduardaHidalgo/blob/main/gifreadme.gif" alt="tecnology">
-  
+</p>
+
 <h1 align="center">
   Olá, eu sou a Eduarda Hidalgo!
 </h1>
@@ -28,6 +31,5 @@
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![Eduarda Hidalgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardaHidalgo&theme=dracula&bg_color=4f4045&show_icons=true&hide_title=true&hide=stars) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaHidalgo&layout=compact)     
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaHidalgo&layout=compact)
         
