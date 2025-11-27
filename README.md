@@ -8,11 +8,11 @@
 </p>
 
 <h1 align="center">
-  Olá, eu sou a Eduarda Hidalgo!
+ Eu sou a Eduarda Hidalgo!
 </h1>
 
 <p align="center"> 
- Sou de Brasília - DF, formada em Comunicação Social - Publicidade e Propaganda e agora me aventurando no mundo da tecnologia 👩🏻‍💻
+ Moro em Brasília - DF, formada em Comunicação Social - Publicidade e Propaganda e agora me aventurando no mundo da tecnologia 👩🏻‍💻
 </p>
 
 <p align="center">
