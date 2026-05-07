@@ -36,7 +36,8 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EduardaHidalgo&show_icons=true&theme=dracula&bg_color=172f45&title_color=bddfff&icon_color=38a0ff&text_color=6e93b5&hide_border=true" height="180" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EduardaHidalgo&layout=compact&theme=dracula&bg_color=172f45&title_color=bddfff&icon_color=38a0ff&text_color=6e93b5&langs_count=6&hide_border=true" height="180" />
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EduardaHidalgo&show_icons=true&theme=dracula" alt="GitHub Stats" />
+
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EduardaHidalgo&layout=compact&theme=dracula" alt="Most Used Languages" />
+</div>
