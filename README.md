@@ -11,11 +11,7 @@
 </h1>
 
 <p align="center"> 
-  Moro em Brasília - DF, formada em Comunicação Social - Publicidade e Propaganda e agora me aventurando no mundo da tecnologia 👩🏻‍💻
-</p>
-
-<p align="center">
-  📝 Estudante de Análise e Desenvolvimento de Sistemas 
+  Moro em Brasília - DF, graduanda em Análise e Desenvolvimento de Sistemas e estagiária em desenvolvimento de software na CI&T! 👩🏻‍💻
 </p>
 
 <p align="center">
