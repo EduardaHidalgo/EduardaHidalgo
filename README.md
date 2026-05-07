@@ -39,5 +39,5 @@
 <div align="center">
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EduardaHidalgo&show_icons=true&theme=dracula" alt="GitHub Stats" />
 
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EduardaHidalgo&layout=compact&theme=dracula" alt="Most Used Languages" />
+  <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EduardaHidalgo&layout=compact&theme=dracula" alt="Most Used Languages" />
 </div>
