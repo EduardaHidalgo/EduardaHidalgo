@@ -37,9 +37,7 @@
 <br>
 
 <div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EduardaHidalgo&show_icons=true&title_color=bddfff&icon_color=38a0ff&text_color=6e93b5&bg_color=172f45" alt="GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardaHidalgo&show_icons=true&theme=dracula&cache=1" alt="GitHub Stats" height="150" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaHidalgo&layout=compact&theme=dracula&cache=1" alt="Most Used Languages" height="150" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaHidalgo&layout=compact&title_color=bddfff&icon_color=38a0ff&text_color=6e93b5&bg_color=172f45" alt="Most Used Languages" />
 </div>
