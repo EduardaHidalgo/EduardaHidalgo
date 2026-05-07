@@ -38,8 +38,8 @@
 
 <div align="center">
 
-  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EduardaHidalgo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=EduardaHidalgo&show_icons=true&theme=dracula&cache=1" alt="GitHub Stats" height="150" />
 
-  [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaHidalgo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaHidalgo&layout=compact&theme=dracula&cache=1" alt="Most Used Languages" height="150" />
 
 </div>
