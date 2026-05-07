@@ -7,15 +7,15 @@
 </p>
 
 <h1 align="center">
- Eu sou a Eduarda Hidalgo!
+  Eu sou a Eduarda Hidalgo!
 </h1>
 
 <p align="center"> 
- Moro em Brasília - DF, formada em Comunicação Social - Publicidade e Propaganda e agora me aventurando no mundo da tecnologia 👩🏻‍💻
+  Moro em Brasília - DF, formada em Comunicação Social - Publicidade e Propaganda e agora me aventurando no mundo da tecnologia 👩🏻‍💻
 </p>
 
 <p align="center">
- 📝 Estudante de Análise e Desenvolvimento de Sistemas 
+  📝 Estudante de Análise e Desenvolvimento de Sistemas 
 </p>
 
 <p align="center">
